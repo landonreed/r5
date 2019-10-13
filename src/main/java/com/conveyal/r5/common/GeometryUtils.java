@@ -1,7 +1,7 @@
 package com.conveyal.r5.common;
 
 import com.conveyal.r5.streets.VertexStore;
-import com.vividsolutions.jts.geom.*;
+import org.locationtech.jts.geom.*;
 import org.apache.commons.math3.util.FastMath;
 import org.geojson.LngLatAlt;
 
